@@ -1,0 +1,5 @@
+
+Python is easy to learn.
+Python is useful for beginners.
+Learning Python improves programming skills.
+Python makes programming interesting.
